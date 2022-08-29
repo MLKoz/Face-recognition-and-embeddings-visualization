@@ -21,4 +21,17 @@ Matplotlib - used to visualizations\
 In order to generate the face embeddings I used the FaceNet model:\
 https://arxiv.org/abs/1503.03832
 
-![Screenshot](readmeimg/1.png)
+![Screenshot](readmeimg/1.png)\
+![Screenshot](readmeimg/2.png)\
+![Screenshot](readmeimg/3.png)\
+![Screenshot](readmeimg/4.png)\
+![Screenshot](readmeimg/5.png)\
+![Screenshot](readmeimg/6.png)\
+![Screenshot](readmeimg/7.png)\
+![Screenshot](readmeimg/8.png)\
+![Screenshot](readmeimg/9.png)\
+![Screenshot](readmeimg/10.png)\
+![Screenshot](readmeimg/11.png)\
+![Screenshot](readmeimg/12.png)\
+![Screenshot](readmeimg/13.png)\
+![Screenshot](readmeimg/14.png)\
