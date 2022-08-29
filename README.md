@@ -1,6 +1,8 @@
 # Face-recognition-and-embeddings-visualization
 
-The project allows you to create a database of photos of people with their personal data, and then detect these people in photos, videos and camera images.\ There are built-in methods for determining the similarity of faces in photos outside the database.\ It is possible to visualize in 2D and 3D face embedding in the database using the t-SNE, PCA and UMAP algorithms.
+The project allows you to create a database of photos of people with their personal data, and then detect these people in photos, videos and camera images.\ 
+There are built-in methods for determining the similarity of faces in photos outside the database.\ 
+It is possible to visualize in 2D and 3D face embedding in the database using the t-SNE, PCA and UMAP algorithms.
 
 #Technologies:  \
 PyQt5 - the interface. \
